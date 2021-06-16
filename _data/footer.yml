@@ -1,0 +1,20 @@
+- links:
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: GitHub
+    link: https://github.com/bmresearch
+    social_icon: GitHub
+    new_window: true
+  - name: Twitter
+    link: https://twitter.com/blockmountainio/
+    social_icon: Twitter
+    new_window: true
+  - name: Medium
+    link: https://blockmountainresearch.medium.com
+    social_icon: Medium
+    new_window: true
