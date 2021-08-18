@@ -3,8 +3,6 @@
     link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
 - links:
   - name: GitHub
     link: https://github.com/bmresearch
